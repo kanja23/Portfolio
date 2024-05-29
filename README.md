@@ -1,7 +1,7 @@
 # Portfolio
 
 # MARTIN KARANJA CHURU
-Dedicated power specialist with over a 9+ years of experience at Kenya Power, excelling in technical maintenance, customer service and project management.
+Craftsman with over a 9+ years of experience at Kenya Power, excelling in technical maintenance, customer service and project management.
 My strong educational background in software engineering, cybersecurity and electrical studies complements my hands-on-expertise, ensuring reliable and safe power distribution.
 
   
