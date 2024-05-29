@@ -1,21 +1,17 @@
 # Portfolio
 
-# MARTIN KARANJA
+# MARTIN KARANJA CHURU
 Dedicated power specialist with over a 9+ years of experience at Kenya Power, excelling in technical maintenance, customer service and project management.
 My strong educational background in software engineering, cybersecurity and electrical studies complements my hands-on-expertise, ensuring reliable and safe power distribution.
 
   
-** ABOUT ME
+**ABOUT ME**
 
 As a seasoned professional with a diverse background in software engineering, cybersecurity, project management, and electrical maintenance, I bring a unique blend of technical expertise and leadership experience.
 With a proven track record of delivering high-quality results in dynamic environments, I am passionate about leveraging my skills to drive innovation and efficiency. My extensive education and hands-on experience across various industries make me a versatile and valuable asset to any team.
 
-Featured 1
-** WHY CHOOSE ME **        
-The following are reasons behind why choosing me.
+WHY CHOOSE ME        
 
-WHY CHOOSING ME
-Web Development
 Proven Leadership
 Demonstrated ability to lead teams and projects to successful completion, ensuring high standards of quality and efficiency.
 Web Development
